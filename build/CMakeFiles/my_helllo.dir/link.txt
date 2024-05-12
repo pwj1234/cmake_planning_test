@@ -1,0 +1,3 @@
+D:\SoftWare\cmake\bin\cmake.exe -E rm -f CMakeFiles\my_helllo.dir/objects.a
+D:\SoftWare\mingw64\bin\ar.exe qc CMakeFiles\my_helllo.dir/objects.a @CMakeFiles\my_helllo.dir\objects1.rsp
+D:\SoftWare\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\my_helllo.dir/objects.a -Wl,--no-whole-archive -o G:\panwj_recycle\Cmake\cmake_planning_test\bin\my_helllo.exe -Wl,--out-implib,G:\panwj_recycle\Cmake\cmake_planning_test\bin\libmy_helllo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\my_helllo.dir\linkLibs.rsp

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "G:/panwj_recycle/Cmake/cmake_planning_test/build",
+  "command": "D:\\SoftWare\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\my_helllo.dir\\hello.cpp.obj -c G:\\panwj_recycle\\Cmake\\cmake_planning_test\\hello.cpp",
+  "file": "G:/panwj_recycle/Cmake/cmake_planning_test/hello.cpp",
+  "output": "CMakeFiles/my_helllo.dir/hello.cpp.obj"
+}
+]
